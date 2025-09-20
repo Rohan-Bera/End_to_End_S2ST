@@ -9,7 +9,7 @@ The goal of this project is to enable **direct speech translation across low-res
 - End-to-End pipeline for Speech-to-Speech Translation  
 - Focus on **Indic languages** (low-resource setting)  
 - Exploration of **SSM-based encoders (Audio Mamba)** and **textless models**  
-- Benchmarked with **public datasets** and custom-curated resources  
+
 
 ## Repository Structure
 - `models/` – Model architectures and training scripts  
